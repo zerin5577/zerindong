@@ -1,0 +1,226 @@
+/*
+  Sophisticated Academic Theme
+  Inspired by: classic libraries, LAC aesthetics, Hermann Hesse
+  Palette: Navy, Cream, Muted Gold, Charcoal
+*/
+
+/*-- scss:defaults --*/
+
+/*-- scss:rules --*/
+
+/* Import elegant fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;1,400&display=swap');
+
+/* Root variables */
+:root {
+  --navy: #1a365d;
+  --navy-light: #2c5282;
+  --cream: #faf8f5;
+  --cream-dark: #f5f0e8;
+  --gold: #b8860b;
+  --gold-muted: #c9a85c;
+  --charcoal: #2d3748;
+  --charcoal-light: #4a5568;
+  --border-subtle: #e2ddd5;
+}
+
+/* Base body styling */
+body {
+  font-family: 'Source Sans Pro', -apple-system, sans-serif;
+  background-color: var(--cream);
+  color: var(--charcoal);
+  line-height: 1.7;
+  font-weight: 300;
+}
+
+/* Headings - elegant serif */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 600;
+  color: var(--navy);
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.75rem;
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+/* Navigation bar */
+.navbar {
+  background-color: var(--navy) !important;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  letter-spacing: 0.03em;
+  border-bottom: 3px solid var(--gold);
+}
+
+.navbar-brand {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-weight: 700;
+  font-size: 1.4rem;
+}
+
+.nav-link {
+  color: var(--cream) !important;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+}
+
+.nav-link:hover {
+  color: var(--gold-muted) !important;
+}
+
+/* Profile image - subtle border instead of circle */
+.about-entity img {
+  border-radius: 4px;
+  border: 3px solid var(--navy);
+  box-shadow: 0 4px 12px rgba(26, 54, 93, 0.15);
+}
+
+/* Links */
+a {
+  color: var(--navy-light);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  color: var(--gold);
+  border-bottom: 1px solid var(--gold);
+}
+
+/* About page links/buttons */
+.about-links a {
+  background-color: var(--navy) !important;
+  border: none !important;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+}
+
+.about-links a:hover {
+  background-color: var(--navy-light) !important;
+}
+
+/* Horizontal rules */
+hr {
+  border: none;
+  border-top: 1px solid var(--border-subtle);
+  margin: 2.5rem 0;
+}
+
+/* Blockquotes - for Hesse quotes or testimonials */
+blockquote {
+  border-left: 3px solid var(--gold);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background-color: var(--cream-dark);
+  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-style: italic;
+  font-size: 1.1rem;
+  color: var(--charcoal-light);
+}
+
+blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+/* Footer */
+.nav-footer {
+  background-color: var(--navy);
+  color: var(--cream);
+  border-top: 3px solid var(--gold);
+}
+
+.nav-footer a {
+  color: var(--cream) !important;
+}
+
+/* Content container - add breathing room */
+.content {
+  max-width: 800px;
+}
+
+main {
+  padding: 2rem 0;
+}
+
+/* Cards and panels */
+.card {
+  border: 1px solid var(--border-subtle);
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+
+/* Code blocks - subtle styling */
+pre {
+  background-color: var(--cream-dark);
+  border: 1px solid var(--border-subtle);
+  border-radius: 4px;
+}
+
+code {
+  font-size: 0.9em;
+  color: var(--navy);
+}
+
+/* Strong/bold text */
+strong {
+  font-weight: 600;
+  color: var(--navy);
+}
+
+/* Table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5rem 0;
+}
+
+th {
+  background-color: var(--navy);
+  color: var(--cream);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+  padding: 0.75rem 1rem;
+}
+
+td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+tr:hover {
+  background-color: var(--cream-dark);
+}
+
+/* Blog post listing */
+.quarto-listing {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.listing-title {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+/* Subtle animation on page load */
+main {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}

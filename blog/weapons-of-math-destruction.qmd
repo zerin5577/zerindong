@@ -1,0 +1,37 @@
+---
+title: "Revisiting Weapons of Math Destruction"
+author: "Zerin Dong"
+date: "2026-02-01"
+categories: [book-review, methods, reflection]
+description: "On models as arguments, not answers—and the quiet choices that shape algorithmic systems."
+---
+
+I first read [*Weapons of Math Destruction*](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/) by Cathy O'Neil in 2017, early in my training in economics and data science. At the time, it unsettled me in a vague way. Revisiting it years later, after building models, cleaning datasets, and making specification choices of my own, I realized how deeply it had reshaped how I think about algorithms.
+
+At the time, my training had been heavily quantitative. I had taken several econometrics courses and an early course in machine learning, and I was genuinely captivated by them. There was something intoxicating about the idea that, with enough data and the right model, complex behavior could be predicted with remarkable accuracy. Prediction felt like clarity; uncertainty felt like something to be engineered away.
+
+What the book challenged was not the power of these tools, but the assumptions and responsibilities that quietly accompany their use.
+
+## Models as Encoded Choices
+
+Seen this way, models do not simply reflect reality. Every model encodes choices: what to include, what to exclude, and what to optimize. These choices may look technical, but they are never value-free. When we say "the data tell the story," we often mean that we have already decided which story the data are allowed to tell.
+
+In economics, this rarely comes from bad intentions. Incentives matter, clean results are rewarded, and scalability is valued. Over time, it becomes easy to adjust specifications or definitions until a model behaves "reasonably." The danger is not manipulation in the crude sense of fabricating significance, but the quiet moment when resistance from the data is treated as a problem to be resolved rather than a signal to be understood.
+
+## Scale, Opacity, and Power
+
+O'Neil emphasizes a particularly harmful combination: scale, opacity, and power. In these settings, optimization can quietly replace judgment. Models optimized for efficiency may sacrifice fairness; models optimized for prediction may reproduce historical inequality. Once deployed, such systems often become self-reinforcing, as their outputs are taken as evidence of their own correctness.
+
+At that point, math no longer helps us understand society—it begins to discipline it.
+
+## Arguments, Not Answers
+
+Deconstructing math does not mean rejecting quantitative tools. It means treating models as arguments rather than answers. Arguments can be questioned, revised, and sometimes rejected. Answers demand obedience.
+
+This perspective shaped how I teach Econ 10 (Statistical Inference) and Econ 110 (Econometrics). I want students to see estimates not as final answers, but as conditional statements shaped by assumptions, data-generating processes, and choices about what to measure. Analytical tools shape real lives, often far beyond the classroom.
+
+---
+
+The question I keep returning to is simple but unsettled: how do we remain accountable to the people affected by our models, especially when they never appear in the data?
+
+I don't have a neat answer. But learning to ask the question is, I think, part of our responsibility as researchers.

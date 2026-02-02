@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zerin Dong"
+  description: "PhD Candidate in Economics | UC Merced"
+  navbar:
+    background: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+      - href: blog.qmd
+        text: Blog
+    right:
+      - icon: twitter-x
+        href: https://x.com/zerin0729
+      - icon: envelope
+        href: mailto:zdong12@ucmerced.edu
+
+  page-footer:
+    background: dark
+    center: "© 2025 Zerin Dong"
+
+format:
+  html:
+    theme:
+      - flatly
+      - styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true

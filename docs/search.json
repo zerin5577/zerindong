@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Notes on papers I’m reading, ideas I’m exploring, and occasional reflections on economics and beyond.\n\n\n\n\n\n\n\n\n\nRevisiting Weapons of Math Destruction\n\n\n\nbook-review\n\nmethods\n\nreflection\n\n\n\nOn models as arguments, not answers—and the quiet choices that shape algorithmic systems.\n\n\n\n\n\nFeb 1, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nZerin Dong\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/welcome.html",
+    "href": "blog/welcome.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome to my academic blog! I’ll be sharing thoughts on research, economics, and my journey through academia.\nStay tuned for more posts!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zerin Dong",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Economics at the University of California, Merced."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Zerin Dong",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Economics at the University of California, Merced."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zerin Dong",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nInterest 1\nInterest 2\nInterest 3"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Zerin Dong",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out via email at zdong12@ucmerced.edu."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Brief description of the course.\n\nSyllabus\nCourse evaluations: X.X/5.0"
+  },
+  {
+    "objectID": "teaching.html#instructor",
+    "href": "teaching.html#instructor",
+    "title": "Teaching",
+    "section": "",
+    "text": "Brief description of the course.\n\nSyllabus\nCourse evaluations: X.X/5.0"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nCourse Name 1 (Semester Year)\nInstructor: Professor Name\n\n\nCourse Name 2 (Semester Year)\nInstructor: Professor Name"
+  },
+  {
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nBrief description of your teaching philosophy and approach."
+  },
+  {
+    "objectID": "teaching.html#student-feedback",
+    "href": "teaching.html#student-feedback",
+    "title": "Teaching",
+    "section": "Student Feedback",
+    "text": "Student Feedback\n\n“Quote from student evaluation”\n— Student, Course Name"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nProject Title 1 - Brief description\nProject Title 2 - Brief description"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nComing soon"
+  },
+  {
+    "objectID": "blog/weapons-of-math-destruction.html",
+    "href": "blog/weapons-of-math-destruction.html",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "",
+    "text": "I first read Weapons of Math Destruction by Cathy O’Neil in 2017, early in my training in economics and data science. At the time, it unsettled me in a vague way. Revisiting it years later, after building models, cleaning datasets, and making specification choices of my own, I realized how deeply it had reshaped how I think about algorithms.\nAt the time, my training had been heavily quantitative. I had taken several econometrics courses and an early course in machine learning, and I was genuinely captivated by them. There was something intoxicating about the idea that, with enough data and the right model, complex behavior could be predicted with remarkable accuracy. Prediction felt like clarity; uncertainty felt like something to be engineered away.\nWhat the book challenged was not the power of these tools, but the assumptions and responsibilities that quietly accompany their use."
+  },
+  {
+    "objectID": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
+    "href": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Models as Encoded Choices",
+    "text": "Models as Encoded Choices\nSeen this way, models do not simply reflect reality. Every model encodes choices: what to include, what to exclude, and what to optimize. These choices may look technical, but they are never value-free. When we say “the data tell the story,” we often mean that we have already decided which story the data are allowed to tell.\nIn economics, this rarely comes from bad intentions. Incentives matter, clean results are rewarded, and scalability is valued. Over time, it becomes easy to adjust specifications or definitions until a model behaves “reasonably.” The danger is not manipulation in the crude sense of fabricating significance, but the quiet moment when resistance from the data is treated as a problem to be resolved rather than a signal to be understood."
+  },
+  {
+    "objectID": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
+    "href": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Scale, Opacity, and Power",
+    "text": "Scale, Opacity, and Power\nO’Neil emphasizes a particularly harmful combination: scale, opacity, and power. In these settings, optimization can quietly replace judgment. Models optimized for efficiency may sacrifice fairness; models optimized for prediction may reproduce historical inequality. Once deployed, such systems often become self-reinforcing, as their outputs are taken as evidence of their own correctness.\nAt that point, math no longer helps us understand society—it begins to discipline it."
+  },
+  {
+    "objectID": "blog/weapons-of-math-destruction.html#arguments-not-answers",
+    "href": "blog/weapons-of-math-destruction.html#arguments-not-answers",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Arguments, Not Answers",
+    "text": "Arguments, Not Answers\nDeconstructing math does not mean rejecting quantitative tools. It means treating models as arguments rather than answers. Arguments can be questioned, revised, and sometimes rejected. Answers demand obedience.\nThis perspective shaped how I teach Econ 10 (Statistical Inference) and Econ 110 (Econometrics). I want students to see estimates not as final answers, but as conditional statements shaped by assumptions, data-generating processes, and choices about what to measure. Analytical tools shape real lives, often far beyond the classroom.\n\nThe question I keep returning to is simple but unsettled: how do we remain accountable to the people affected by our models, especially when they never appear in the data?\nI don’t have a neat answer. But learning to ask the question is, I think, part of our responsibility as researchers."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download PDF version"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\nPh.D. in Economics | Your University | Expected 2025\n\nDissertation: “Your Dissertation Title”\nCommittee: Prof. A (Chair), Prof. B, Prof. C\n\nM.A. in Economics | Your University | 2021\nB.A. in Economics | Your Undergraduate University | 2019"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\nPrimary: Field 1, Field 2\nSecondary: Field 3, Field 4"
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "Curriculum Vitae",
+    "section": "Working Papers",
+    "text": "Working Papers\n\nPaper Title 1 (Job Market Paper)\nPaper Title 2 (with Co-author)"
+  },
+  {
+    "objectID": "cv.html#work-in-progress",
+    "href": "cv.html#work-in-progress",
+    "title": "Curriculum Vitae",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nProject Title 1\nProject Title 2"
+  },
+  {
+    "objectID": "cv.html#teaching-experience",
+    "href": "cv.html#teaching-experience",
+    "title": "Curriculum Vitae",
+    "section": "Teaching Experience",
+    "text": "Teaching Experience\nInstructor\n\nCourse Name, Semester Year\n\nTeaching Assistant\n\nCourse Name 1, Semester Year\nCourse Name 2, Semester Year"
+  },
+  {
+    "objectID": "cv.html#awards-fellowships",
+    "href": "cv.html#awards-fellowships",
+    "title": "Curriculum Vitae",
+    "section": "Awards & Fellowships",
+    "text": "Awards & Fellowships\n\nAward Name, Year\nFellowship Name, Year"
+  },
+  {
+    "objectID": "cv.html#presentations",
+    "href": "cv.html#presentations",
+    "title": "Curriculum Vitae",
+    "section": "Presentations",
+    "text": "Presentations\n\nConference Name, Location, Year\nSeminar Name, University, Year"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Curriculum Vitae",
+    "section": "Skills",
+    "text": "Skills\nProgramming: Python, R, Stata, SQL\nSoftware: LaTeX, Git, Quarto\nLanguages: English (native), Other Language (proficiency)"
+  },
+  {
+    "objectID": "cv.html#references",
+    "href": "cv.html#references",
+    "title": "Curriculum Vitae",
+    "section": "References",
+    "text": "References\nProfessor Name 1 (Chair) Department, University Email: email@university.edu\nProfessor Name 2 Department, University Email: email@university.edu\nProfessor Name 3 Department, University Email: email@university.edu"
+  }
+]

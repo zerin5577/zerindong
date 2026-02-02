@@ -1,0 +1,32 @@
+---
+title: "Zerin Dong"
+image: images/profile.jpg
+about:
+  template: trestles
+  image-width: 200px
+  links:
+    - icon: twitter-x
+      text: X
+      href: https://x.com/zerin0729
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/zerin5577/
+    - icon: file-earmark-text
+      text: CV
+      href: cv.pdf
+---
+
+## About Me
+
+I am a Ph.D. candidate in Economics at the University of California, Merced.
+
+## Research Interests
+
+- Interest 1
+- Interest 2
+- Interest 3
+
+
+## Contact
+
+Feel free to reach out via email at [zdong12@ucmerced.edu](mailto:zdong12@ucmerced.edu).

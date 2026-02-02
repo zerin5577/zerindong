@@ -1,0 +1,10 @@
+---
+title: "Welcome to My Blog"
+author: "Zerin Dong"
+date: "2026-01-31"
+categories: [news]
+---
+
+Welcome to my academic blog! I'll be sharing thoughts on research, economics, and my journey through academia.
+
+Stay tuned for more posts!

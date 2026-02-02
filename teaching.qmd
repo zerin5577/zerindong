@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+---
+
+## Instructor
+
+### Course Name (Semester Year)
+Brief description of the course.
+
+- [Syllabus](teaching/course1_syllabus.pdf)
+- Course evaluations: X.X/5.0
+
+---
+
+## Teaching Assistant
+
+### Course Name 1 (Semester Year)
+Instructor: Professor Name
+
+### Course Name 2 (Semester Year)
+Instructor: Professor Name
+
+---
+
+## Teaching Philosophy
+
+Brief description of your teaching philosophy and approach.
+
+---
+
+## Student Feedback
+
+> "Quote from student evaluation"
+>
+> — Student, Course Name

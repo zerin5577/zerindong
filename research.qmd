@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+## Working Papers
+
+### Paper Title 1
+**Abstract:** Brief description of the paper and its findings.
+
+[Paper](papers/paper1.pdf) | [Slides](slides/paper1_slides.pdf) | [Code](https://github.com/zerin5577/paper1)
+
+---
+
+### Paper Title 2
+**Abstract:** Brief description of the paper and its findings.
+
+[Paper](papers/paper2.pdf) | [Slides](slides/paper2_slides.pdf)
+
+---
+
+## Work in Progress
+
+- **Project Title 1** - Brief description
+- **Project Title 2** - Brief description
+
+## Publications
+
+*Coming soon*

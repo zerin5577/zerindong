@@ -1,0 +1,93 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download PDF version](cv.pdf)
+
+---
+
+## Education
+
+**Ph.D. in Economics** | Your University | Expected 2025
+
+- Dissertation: "Your Dissertation Title"
+- Committee: Prof. A (Chair), Prof. B, Prof. C
+
+**M.A. in Economics** | Your University | 2021
+
+**B.A. in Economics** | Your Undergraduate University | 2019
+
+---
+
+## Research Interests
+
+Primary: Field 1, Field 2
+
+Secondary: Field 3, Field 4
+
+---
+
+## Working Papers
+
+1. **Paper Title 1** (Job Market Paper)
+2. **Paper Title 2** (with Co-author)
+
+---
+
+## Work in Progress
+
+1. Project Title 1
+2. Project Title 2
+
+---
+
+## Teaching Experience
+
+**Instructor**
+
+- Course Name, Semester Year
+
+**Teaching Assistant**
+
+- Course Name 1, Semester Year
+- Course Name 2, Semester Year
+
+---
+
+## Awards & Fellowships
+
+- Award Name, Year
+- Fellowship Name, Year
+
+---
+
+## Presentations
+
+- Conference Name, Location, Year
+- Seminar Name, University, Year
+
+---
+
+## Skills
+
+**Programming:** Python, R, Stata, SQL
+
+**Software:** LaTeX, Git, Quarto
+
+**Languages:** English (native), Other Language (proficiency)
+
+---
+
+## References
+
+**Professor Name 1** (Chair)
+Department, University
+Email: email@university.edu
+
+**Professor Name 2**
+Department, University
+Email: email@university.edu
+
+**Professor Name 3**
+Department, University
+Email: email@university.edu

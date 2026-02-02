@@ -1,0 +1,60 @@
+---
+title: "Paper Title Here"
+author: "Zerin Dong"
+date: "2025-01-31"
+categories: [paper-review, field-tag]
+description: "One sentence summary of the paper's contribution."
+draft: true
+---
+
+> "A relevant quote from the paper or a related idea."
+
+## The Paper
+
+**Title:** Full Paper Title
+
+**Authors:** Author One, Author Two
+
+**Published:** *Journal Name*, Year | [Link](https://doi.org/xxx)
+
+---
+
+## The Big Question
+
+What problem are the authors trying to solve? Why does it matter? (2-3 sentences)
+
+## Key Findings
+
+The main results in plain language:
+
+1. **Finding 1** - Brief explanation
+2. **Finding 2** - Brief explanation
+3. **Finding 3** - Brief explanation
+
+## The Approach
+
+How did they answer the question? (Keep it accessible - avoid jargon)
+
+- Data: What data did they use?
+- Method: What's the identification strategy? (1-2 sentences)
+- Key assumption: What needs to be true for this to work?
+
+## My Take
+
+### What I liked
+
+- Strength 1
+- Strength 2
+
+### Questions I have
+
+- Limitation or extension idea
+- Something I'd like to see explored
+
+## Broader Connections
+
+How does this connect to other ideas? Your own research? A book you've read?
+
+---
+
+*Thanks for reading. Feel free to reach out if you'd like to discuss this paper.*
