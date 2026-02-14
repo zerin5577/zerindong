@@ -5,7 +5,7 @@ title: "Research"
 ## Working Papers
 
 ### 
-The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production (Solo, JMP)
+**The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production** (Solo, JMP)
 **Abstract:** Brief description of the paper and its findings.
 
 [Paper](papers/paper1.pdf) | [Slides](slides/paper1_slides.pdf) | [Code](https://github.com/zerin5577/paper1)
