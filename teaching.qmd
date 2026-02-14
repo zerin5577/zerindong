@@ -2,10 +2,10 @@
 title: "Teaching"
 ---
 
-## Instructor
+## Instructor of Record
 
-### Course Name (Semester Year)
-Brief description of the course.
+### Economics of Investments: Stocks and Bonds (Summer 2026)
+This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.
 
 - [Syllabus](teaching/course1_syllabus.pdf)
 - Course evaluations: X.X/5.0
@@ -14,11 +14,13 @@ Brief description of the course.
 
 ## Teaching Assistant
 
-### Course Name 1 (Semester Year)
+### Statistical Inference (2023 Spring, 2025 Spring, 2025 Fall)
 Instructor: Professor Name
 
-### Course Name 2 (Semester Year)
+### Econometrics (2022 Fall, 2024 Fall)
 Instructor: Professor Name
+
+### Intermediate Microeconomics (2023 fALL, 2024 Spring)
 
 ---
 
