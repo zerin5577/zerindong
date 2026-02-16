@@ -18,11 +18,11 @@ about:
 
 ## About Me
 
-I am a Ph.D. candidate in Economics at the University of California, Merced.
+I am a 4th-year Ph.D. candidate in Economics at the University of California, Merced. My research studies how leadership, institutions, and incentives shape innovation and knowledge production. Prior to beginning my doctoral studies, I worked as a data analyst in the San Francisco Bay Area. Outside of research, I enjoy running, reading, and spending time outdoors.
 
 ## Research Interests
 
-- Microeconomics
+- Applied Microeconomics
 - Economics of Science
 - Leadership
 
