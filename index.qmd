@@ -1,6 +1,6 @@
 ---
 title: "Zerin Dong"
-image: images/profile.jpg
+image: images/profile.PNG
 about:
   template: trestles
   image-width: 200px
