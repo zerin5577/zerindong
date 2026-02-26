@@ -3,7 +3,7 @@ title: "Innovation, Incentives, and the Allocation of Talent"
 author: "Zerin Dong"
 date: "2026-02-25"
 categories: [innovation, economics, incentives, reflection]
-description: "Innovation is rarely scarce because ability is rare. It is scarce because opportunity and incentives are uneven."
+description: "If Einstein were born today, would he still choose science?"
 ---
 
 Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.
@@ -13,6 +13,8 @@ The "Lost Einsteins" concept, developed by Bell et al. (2019), shows that talent
 ## Competing for Talent
 
 But uneven opportunity is only part of the story. Even among those with strong ability and access, incentives shape whether they remain in science. During a recent lecture, Prof. Ina Ganguli quoted Pierre Azoulay with a provocative question: if Einstein were born today, where would he work — academia, the patent office, or a hedge fund? The point is not nostalgic. It is economic. Individuals respond to incentives. If sectors outside academia offer higher private returns, clearer career paths, or lower uncertainty, then science must compete for talent rather than assume it will naturally attract the most capable minds.
+
+![](../images/einstein.png){width=60% fig-align="center"}
 
 Seen this way, the movement of physicists and mathematicians into quantitative finance or technology is not a moral failure, but an institutional outcome. Markets reward activities with strong private returns. But many forms of scientific research generate large social spillovers that are difficult to capture privately. The result is a familiar economic divergence: private incentives may not align with social value.
 
