@@ -6,6 +6,8 @@ categories: [innovation, economics, incentives, reflection]
 description: "If Einstein were born today, would he still choose science?"
 ---
 
+## The Lost Einsteins
+
 Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.
 
 The "Lost Einsteins" concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven.
