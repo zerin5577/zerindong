@@ -4,7 +4,7 @@
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "Notes on papers I’m reading, ideas I’m exploring, and occasional reflections on economics and beyond.\n\n\n\n\n\n\n\n\n\nRevisiting Weapons of Math Destruction\n\n\n\nbook-review\n\nmethods\n\nreflection\n\n\n\nOn models as arguments, not answers—and the quiet choices that shape algorithmic systems.\n\n\n\n\n\nFeb 1, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nZerin Dong\n\n\n\n\n\nNo matching items"
+    "text": "Notes on papers I’m reading, ideas I’m exploring, and occasional reflections on economics and beyond.\n\n\n\n\n\n\n\n\n\nInnovation, Incentives, and the Allocation of Talent\n\n\n\ninnovation\n\neconomics\n\nincentives\n\nreflection\n\n\n\nInnovation is rarely scarce because ability is rare. It is scarce because opportunity and incentives are uneven.\n\n\n\n\n\nFeb 25, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nRevisiting Weapons of Math Destruction\n\n\n\nbook-review\n\nmethods\n\nreflection\n\n\n\nOn models as arguments, not answers—and the quiet choices that shape algorithmic systems.\n\n\n\n\n\nFeb 1, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nZerin Dong\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/welcome.html",
@@ -14,32 +14,60 @@
     "text": "Welcome to my academic blog! I’ll be sharing thoughts on research, economics, and my journey through academia.\nStay tuned for more posts!"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zerin Dong",
+    "objectID": "blog/innovation-allocation.html",
+    "href": "blog/innovation-allocation.html",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
     "section": "",
-    "text": "I am a 4th-year Ph.D. candidate in Economics at the University of California, Merced. My research studies how leadership, institutions, and incentives shape innovation and knowledge production. Prior to beginning my doctoral studies, I worked as a data analyst in the San Francisco Bay Area. I received a M.A. in Economics from the University of San Francisco. Outside of research, I enjoy running, reading, and spending time outdoors."
+    "text": "Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.\nThe “Lost Einsteins” concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven."
   },
   {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Zerin Dong",
+    "objectID": "blog/innovation-allocation.html#competing-for-talent",
+    "href": "blog/innovation-allocation.html#competing-for-talent",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "Competing for Talent",
+    "text": "Competing for Talent\nBut uneven opportunity is only part of the story. Even among those with strong ability and access, incentives shape whether they remain in science. During a recent lecture, Prof. Ina Ganguli quoted Pierre Azoulay with a provocative question: if Einstein were born today, where would he work — academia, the patent office, or a hedge fund? The point is not nostalgic. It is economic. Individuals respond to incentives. If sectors outside academia offer higher private returns, clearer career paths, or lower uncertainty, then science must compete for talent rather than assume it will naturally attract the most capable minds.\nSeen this way, the movement of physicists and mathematicians into quantitative finance or technology is not a moral failure, but an institutional outcome. Markets reward activities with strong private returns. But many forms of scientific research generate large social spillovers that are difficult to capture privately. The result is a familiar economic divergence: private incentives may not align with social value."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#ai-and-a-new-layer",
+    "href": "blog/innovation-allocation.html#ai-and-a-new-layer",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "AI and a New Layer",
+    "text": "AI and a New Layer\nThe emergence of AI adds another layer to this allocation problem. If AI lowers the cost of experimentation, it may expand the set of people able to contribute to innovation. But if access to computational infrastructure remains concentrated, the returns to innovation may become even more uneven."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
+    "href": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "Institutional Design, Not Moral Persuasion",
+    "text": "Institutional Design, Not Moral Persuasion\nIf talent is broadly distributed but incentives are not, then the production of ideas becomes less a mystery of genius and more a question of institutional design. Understanding how institutions shape the allocation of talent may be as important as understanding innovation itself.\n\nReference\nBell, A., Chetty, R., Jaravel, X., Petkova, N., & Van Reenen, J. (2019). Who becomes an inventor in America? The importance of exposure to innovation. The Quarterly Journal of Economics, 134(2), 647–713."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "I am a 4th-year Ph.D. candidate in Economics at the University of California, Merced. My research studies how leadership, institutions, and incentives shape innovation and knowledge production. Prior to beginning my doctoral studies, I worked as a data analyst in the San Francisco Bay Area. I received a M.A. in Economics from the University of San Francisco. Outside of research, I enjoy running, reading, and spending time outdoors."
+    "text": "The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production (Solo, JMP) Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Zerin Dong",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nApplied Microeconomics\nEconomics of Science\nLeadership"
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production (Solo, JMP) Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
   },
   {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Zerin Dong",
-    "section": "Contact",
-    "text": "Contact\nFeel free to reach out via email at zdong12@ucmerced.edu."
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nInnovation in India (with Christian Fons-Rosen)  - Brief description\nProject Title 2 - Brief description"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nComing soon"
   },
   {
     "objectID": "teaching.html",
@@ -77,32 +105,32 @@
     "text": "Student Feedback\n\n“Quote from student evaluation”\n— Student, Course Name"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zerin Dong",
     "section": "",
-    "text": "The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production (Solo, JMP) Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+    "text": "I am a 4th-year Ph.D. candidate in Economics at the University of California, Merced. My research studies how leadership, institutions, and incentives shape innovation and knowledge production. Prior to beginning my doctoral studies, I worked as a data analyst in the San Francisco Bay Area. I received a M.A. in Economics from the University of San Francisco. Outside of research, I enjoy running, reading, and spending time outdoors."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Zerin Dong",
     "section": "",
-    "text": "The Making of a University President: Evolving Profiles, Favoritism and Knowledge Production (Solo, JMP) Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+    "text": "I am a 4th-year Ph.D. candidate in Economics at the University of California, Merced. My research studies how leadership, institutions, and incentives shape innovation and knowledge production. Prior to beginning my doctoral studies, I worked as a data analyst in the San Francisco Bay Area. I received a M.A. in Economics from the University of San Francisco. Outside of research, I enjoy running, reading, and spending time outdoors."
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nInnovation in India (with Christian Fons-Rosen)  - Brief description\nProject Title 2 - Brief description"
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zerin Dong",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nApplied Microeconomics\nEconomics of Science\nLeadership"
   },
   {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nComing soon"
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Zerin Dong",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out via email at zdong12@ucmerced.edu."
   },
   {
     "objectID": "blog/weapons-of-math-destruction.html",

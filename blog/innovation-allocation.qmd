@@ -1,0 +1,31 @@
+---
+title: "Innovation, Incentives, and the Allocation of Talent"
+author: "Zerin Dong"
+date: "2026-02-25"
+categories: [innovation, economics, incentives, reflection]
+description: "Innovation is rarely scarce because ability is rare. It is scarce because opportunity and incentives are uneven."
+---
+
+Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.
+
+The "Lost Einsteins" concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven.
+
+## Competing for Talent
+
+But uneven opportunity is only part of the story. Even among those with strong ability and access, incentives shape whether they remain in science. During a recent lecture, Prof. Ina Ganguli quoted Pierre Azoulay with a provocative question: if Einstein were born today, where would he work — academia, the patent office, or a hedge fund? The point is not nostalgic. It is economic. Individuals respond to incentives. If sectors outside academia offer higher private returns, clearer career paths, or lower uncertainty, then science must compete for talent rather than assume it will naturally attract the most capable minds.
+
+Seen this way, the movement of physicists and mathematicians into quantitative finance or technology is not a moral failure, but an institutional outcome. Markets reward activities with strong private returns. But many forms of scientific research generate large social spillovers that are difficult to capture privately. The result is a familiar economic divergence: private incentives may not align with social value.
+
+## AI and a New Layer
+
+The emergence of AI adds another layer to this allocation problem. If AI lowers the cost of experimentation, it may expand the set of people able to contribute to innovation. But if access to computational infrastructure remains concentrated, the returns to innovation may become even more uneven.
+
+## Institutional Design, Not Moral Persuasion
+
+If talent is broadly distributed but incentives are not, then the production of ideas becomes less a mystery of genius and more a question of institutional design. Understanding how institutions shape the allocation of talent may be as important as understanding innovation itself.
+
+---
+
+**Reference**
+
+Bell, A., Chetty, R., Jaravel, X., Petkova, N., & Van Reenen, J. (2019). Who becomes an inventor in America? The importance of exposure to innovation. *The Quarterly Journal of Economics*, 134(2), 647–713.
