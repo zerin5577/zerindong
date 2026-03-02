@@ -16,11 +16,6 @@ website:
         text: Teaching
       - href: blog.qmd
         text: Blog
-    right:
-      - icon: twitter-x
-        href: https://x.com/zerin0729
-      - icon: envelope
-        href: mailto:zdong12@ucmerced.edu
 
   page-footer:
     background: dark
