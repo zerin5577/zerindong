@@ -8,6 +8,9 @@ about:
     - icon: twitter-x
       text: X
       href: https://x.com/zerin0729
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/zerin5577.bsky.social
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/zerin5577/
