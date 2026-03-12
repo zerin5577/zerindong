@@ -4,8 +4,7 @@ title: "Research"
 
 ## Working Papers
 
-### Leaders and the Direction of Science: Evidence
-from University Presidents (Solo, JMP)
+### Leaders and the Direction of Science: Evidence from University Presidents (Solo, JMP)
 **Abstract:** Brief description of the paper and its findings.
 
 [Paper](papers/paper1.pdf) | [Slides](slides/paper1_slides.pdf) | [Code](https://github.com/zerin5577/paper1)
