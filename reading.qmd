@@ -1,0 +1,39 @@
+---
+title: "Outside Research"
+---
+
+A log of books, films, and documentaries.
+
+## Books
+
+Some books I've recently enjoyed:
+
+| Title | Author |
+|-------|--------|
+| *The Lever of Riches* | Joel Mokyr |
+| *Weapons of Math Destruction* | Cathy O'Neil |
+| *Micromotives and Macrobehavior* | Thomas C. Schelling |
+| *The Highest Exam: How the Gaokao Shapes China* | Ruixue Jia |
+| *Steppenwolf* | Hermann Hesse |
+| *The Stranger* | Albert Camus |
+
+## Watching
+
+Some things I've recently enjoyed:
+
+### Documentaries
+
+| Title |
+|-------|
+| *The Social Dilemma* |
+
+### TV Series
+
+| Title |
+|-------|
+| *Painkiller* |
+| *The Good Doctor* |
+| *The Pitt* |
+| *Friends* |
+| *How I Met Your Mother* |
+| *Young Sheldon* |

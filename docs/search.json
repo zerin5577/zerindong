@@ -7,109 +7,53 @@
     "text": "Notes on papers I’m reading, ideas I’m exploring, and occasional reflections on economics and beyond.\n\n\n\n\n\n\n\n\n\nInnovation, Incentives, and the Allocation of Talent\n\n\n\ninnovation\n\neconomics\n\nincentives\n\nreflection\n\n\n\nIf Einstein were born today, would he still choose science?\n\n\n\n\n\nFeb 25, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nRevisiting Weapons of Math Destruction\n\n\n\nbook-review\n\nmethods\n\nreflection\n\n\n\nOn models as arguments, not answers—and the quiet choices that shape algorithmic systems.\n\n\n\n\n\nFeb 1, 2026\n\n\nZerin Dong\n\n\n\n\n\n\n\nWelcome to My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 31, 2026\n\n\nZerin Dong\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/welcome.html",
-    "href": "blog/welcome.html",
-    "title": "Welcome to My Blog",
+    "objectID": "reading.html",
+    "href": "reading.html",
+    "title": "Outside Research",
     "section": "",
-    "text": "Welcome to my academic blog! I’ll be sharing thoughts on research, economics, and my journey through academia.\nStay tuned for more posts!"
+    "text": "A log of books, films, and documentaries."
   },
   {
-    "objectID": "blog/innovation-allocation.html",
-    "href": "blog/innovation-allocation.html",
-    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "objectID": "reading.html#books",
+    "href": "reading.html#books",
+    "title": "Outside Research",
+    "section": "Books",
+    "text": "Books\nSome books I’ve recently enjoyed:\n\n\n\nTitle\nAuthor\n\n\n\n\nThe Lever of Riches\nJoel Mokyr\n\n\nWeapons of Math Destruction\nCathy O’Neil\n\n\nMicromotives and Macrobehavior\nThomas C. Schelling\n\n\nThe Highest Exam: How the Gaokao Shapes China\nRuixue Jia\n\n\nSteppenwolf\nHermann Hesse\n\n\nThe Stranger\nAlbert Camus"
+  },
+  {
+    "objectID": "reading.html#watching",
+    "href": "reading.html#watching",
+    "title": "Outside Research",
+    "section": "Watching",
+    "text": "Watching\nSome things I’ve recently enjoyed:\n\nDocumentaries\n\n\n\nTitle\n\n\n\n\nThe Social Dilemma\n\n\n\n\n\nTV Series\n\n\n\nTitle\n\n\n\n\nPainkiller\n\n\nThe Good Doctor\n\n\nThe Pitt\n\n\nFriends\n\n\nHow I Met Your Mother\n\n\nYoung Sheldon"
+  },
+  {
+    "objectID": "blog/weapons-of-math-destruction.html",
+    "href": "blog/weapons-of-math-destruction.html",
+    "title": "Revisiting Weapons of Math Destruction",
     "section": "",
-    "text": "Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.\nThe “Lost Einsteins” concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven."
+    "text": "I first read Weapons of Math Destruction by Cathy O’Neil in 2017, early in my training in economics and data science. At the time, it unsettled me in a vague way. Revisiting it years later, after building models, cleaning datasets, and making specification choices of my own, I realized how deeply it had reshaped how I think about algorithms.\nAt the time, my training had been heavily quantitative. I had taken several econometrics courses and an early course in machine learning, and I was genuinely captivated by them. There was something intoxicating about the idea that, with enough data and the right model, complex behavior could be predicted with remarkable accuracy. Prediction felt like clarity; uncertainty felt like something to be engineered away.\nWhat the book challenged was not the power of these tools, but the assumptions and responsibilities that quietly accompany their use."
   },
   {
-    "objectID": "blog/innovation-allocation.html#the-lost-einsteins",
-    "href": "blog/innovation-allocation.html#the-lost-einsteins",
-    "title": "Innovation, Incentives, and the Allocation of Talent",
-    "section": "",
-    "text": "Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.\nThe “Lost Einsteins” concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven."
+    "objectID": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
+    "href": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Models as Encoded Choices",
+    "text": "Models as Encoded Choices\nSeen this way, models do not simply reflect reality. Every model encodes choices: what to include, what to exclude, and what to optimize. These choices may look technical, but they are never value-free. When we say “the data tell the story,” we often mean that we have already decided which story the data are allowed to tell.\nIn economics, this rarely comes from bad intentions. Incentives matter, clean results are rewarded, and scalability is valued. Over time, it becomes easy to adjust specifications or definitions until a model behaves “reasonably.” The danger is not manipulation in the crude sense of fabricating significance, but the quiet moment when resistance from the data is treated as a problem to be resolved rather than a signal to be understood."
   },
   {
-    "objectID": "blog/innovation-allocation.html#competing-for-talent",
-    "href": "blog/innovation-allocation.html#competing-for-talent",
-    "title": "Innovation, Incentives, and the Allocation of Talent",
-    "section": "Competing for Talent",
-    "text": "Competing for Talent\nBut uneven opportunity is only part of the story. Even among those with strong ability and access, incentives shape whether they remain in science. During a recent lecture, Prof. Ina Ganguli quoted Pierre Azoulay with a provocative question: if Einstein were born today, where would he work — academia, the patent office, or a hedge fund? The point is not nostalgic. It is economic. Individuals respond to incentives. If sectors outside academia offer higher private returns, clearer career paths, or lower uncertainty, then science must compete for talent rather than assume it will naturally attract the most capable minds.\n\n\n\n\n\nSeen this way, the movement of physicists and mathematicians into quantitative finance or technology is not a moral failure, but an institutional outcome. Markets reward activities with strong private returns. But many forms of scientific research generate large social spillovers that are difficult to capture privately. The result is a familiar economic divergence: private incentives may not align with social value."
+    "objectID": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
+    "href": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Scale, Opacity, and Power",
+    "text": "Scale, Opacity, and Power\nO’Neil emphasizes a particularly harmful combination: scale, opacity, and power. In these settings, optimization can quietly replace judgment. Models optimized for efficiency may sacrifice fairness; models optimized for prediction may reproduce historical inequality. Once deployed, such systems often become self-reinforcing, as their outputs are taken as evidence of their own correctness.\nAt that point, math no longer helps us understand society—it begins to discipline it."
   },
   {
-    "objectID": "blog/innovation-allocation.html#ai-and-a-new-layer",
-    "href": "blog/innovation-allocation.html#ai-and-a-new-layer",
-    "title": "Innovation, Incentives, and the Allocation of Talent",
-    "section": "AI and a New Layer",
-    "text": "AI and a New Layer\nThe emergence of AI adds another layer to this allocation problem. If AI lowers the cost of experimentation, it may expand the set of people able to contribute to innovation. But if access to computational infrastructure remains concentrated, the returns to innovation may become even more uneven."
-  },
-  {
-    "objectID": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
-    "href": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
-    "title": "Innovation, Incentives, and the Allocation of Talent",
-    "section": "Institutional Design, Not Moral Persuasion",
-    "text": "Institutional Design, Not Moral Persuasion\nIf talent is broadly distributed but incentives are not, then the production of ideas becomes less a mystery of genius and more a question of institutional design. Understanding how institutions shape the allocation of talent may be as important as understanding innovation itself.\n\nReference\nBell, A., Chetty, R., Jaravel, X., Petkova, N., & Van Reenen, J. (2019). Who becomes an inventor in America? The importance of exposure to innovation. The Quarterly Journal of Economics, 134(2), 647–713."
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
-  },
-  {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
-    "title": "Research",
-    "section": "",
-    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
-  },
-  {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
-    "title": "Research",
-    "section": "Work in Progress",
-    "text": "Work in Progress\n\nInnovation in India (with Christian Fons-Rosen)  - Brief description\nLost Science - Brief description"
-  },
-  {
-    "objectID": "research.html#publications",
-    "href": "research.html#publications",
-    "title": "Research",
-    "section": "Publications",
-    "text": "Publications\nComing soon"
-  },
-  {
-    "objectID": "teaching.html",
-    "href": "teaching.html",
-    "title": "Teaching",
-    "section": "",
-    "text": "This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.\n\nSyllabus\nCourse evaluations: X.X/7.0"
-  },
-  {
-    "objectID": "teaching.html#instructor-of-record",
-    "href": "teaching.html#instructor-of-record",
-    "title": "Teaching",
-    "section": "",
-    "text": "This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.\n\nSyllabus\nCourse evaluations: X.X/7.0"
-  },
-  {
-    "objectID": "teaching.html#teaching-assistant",
-    "href": "teaching.html#teaching-assistant",
-    "title": "Teaching",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nStatistical Inference (2023 Spring, 2025 Spring, 2025 Fall)\n\nCourse evaluations\n\n\n\nEconometrics (2022 Fall, 2024 Fall)\n\nCourse evaluations\n\n\n\nIntermediate Microeconomics (2023 Fall, 2024 Spring)\n\nCourse evaluations"
-  },
-  {
-    "objectID": "teaching.html#teaching-philosophy",
-    "href": "teaching.html#teaching-philosophy",
-    "title": "Teaching",
-    "section": "Teaching Philosophy",
-    "text": "Teaching Philosophy\nBrief description of your teaching philosophy and approach."
-  },
-  {
-    "objectID": "teaching.html#student-feedback",
-    "href": "teaching.html#student-feedback",
-    "title": "Teaching",
-    "section": "Student Feedback",
-    "text": "Student Feedback\n\n“Quote from student evaluation”\n— Student, Course Name"
+    "objectID": "blog/weapons-of-math-destruction.html#arguments-not-answers",
+    "href": "blog/weapons-of-math-destruction.html#arguments-not-answers",
+    "title": "Revisiting Weapons of Math Destruction",
+    "section": "Arguments, Not Answers",
+    "text": "Arguments, Not Answers\nDeconstructing math does not mean rejecting quantitative tools. It means treating models as arguments rather than answers. Arguments can be questioned, revised, and sometimes rejected. Answers demand obedience.\nThis perspective shaped how I teach Econ 10 (Statistical Inference) and Econ 110 (Econometrics). I want students to see estimates not as final answers, but as conditional statements shaped by assumptions, data-generating processes, and choices about what to measure. Analytical tools shape real lives, often far beyond the classroom.\n\nThe question I keep returning to is simple but unsettled: how do we remain accountable to the people affected by our models, especially when they never appear in the data?\nI don’t have a neat answer. But learning to ask the question is, I think, part of our responsibility as researchers."
   },
   {
     "objectID": "index.html",
@@ -147,32 +91,109 @@
     "text": "Contact\nFeel free to reach out via email at zdong12[at]ucmerced.edu."
   },
   {
-    "objectID": "blog/weapons-of-math-destruction.html",
-    "href": "blog/weapons-of-math-destruction.html",
-    "title": "Revisiting Weapons of Math Destruction",
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
     "section": "",
-    "text": "I first read Weapons of Math Destruction by Cathy O’Neil in 2017, early in my training in economics and data science. At the time, it unsettled me in a vague way. Revisiting it years later, after building models, cleaning datasets, and making specification choices of my own, I realized how deeply it had reshaped how I think about algorithms.\nAt the time, my training had been heavily quantitative. I had taken several econometrics courses and an early course in machine learning, and I was genuinely captivated by them. There was something intoxicating about the idea that, with enough data and the right model, complex behavior could be predicted with remarkable accuracy. Prediction felt like clarity; uncertainty felt like something to be engineered away.\nWhat the book challenged was not the power of these tools, but the assumptions and responsibilities that quietly accompany their use."
+    "text": "This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.\n\nSyllabus\nCourse evaluations: X.X/7.0"
   },
   {
-    "objectID": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
-    "href": "blog/weapons-of-math-destruction.html#models-as-encoded-choices",
-    "title": "Revisiting Weapons of Math Destruction",
-    "section": "Models as Encoded Choices",
-    "text": "Models as Encoded Choices\nSeen this way, models do not simply reflect reality. Every model encodes choices: what to include, what to exclude, and what to optimize. These choices may look technical, but they are never value-free. When we say “the data tell the story,” we often mean that we have already decided which story the data are allowed to tell.\nIn economics, this rarely comes from bad intentions. Incentives matter, clean results are rewarded, and scalability is valued. Over time, it becomes easy to adjust specifications or definitions until a model behaves “reasonably.” The danger is not manipulation in the crude sense of fabricating significance, but the quiet moment when resistance from the data is treated as a problem to be resolved rather than a signal to be understood."
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Teaching",
+    "section": "",
+    "text": "This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.\n\nSyllabus\nCourse evaluations: X.X/7.0"
   },
   {
-    "objectID": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
-    "href": "blog/weapons-of-math-destruction.html#scale-opacity-and-power",
-    "title": "Revisiting Weapons of Math Destruction",
-    "section": "Scale, Opacity, and Power",
-    "text": "Scale, Opacity, and Power\nO’Neil emphasizes a particularly harmful combination: scale, opacity, and power. In these settings, optimization can quietly replace judgment. Models optimized for efficiency may sacrifice fairness; models optimized for prediction may reproduce historical inequality. Once deployed, such systems often become self-reinforcing, as their outputs are taken as evidence of their own correctness.\nAt that point, math no longer helps us understand society—it begins to discipline it."
+    "objectID": "teaching.html#teaching-assistant",
+    "href": "teaching.html#teaching-assistant",
+    "title": "Teaching",
+    "section": "Teaching Assistant",
+    "text": "Teaching Assistant\n\nStatistical Inference (2023 Spring, 2025 Spring, 2025 Fall)\n\nCourse evaluations\n\n\n\nEconometrics (2022 Fall, 2024 Fall)\n\nCourse evaluations\n\n\n\nIntermediate Microeconomics (2023 Fall, 2024 Spring)\n\nCourse evaluations"
   },
   {
-    "objectID": "blog/weapons-of-math-destruction.html#arguments-not-answers",
-    "href": "blog/weapons-of-math-destruction.html#arguments-not-answers",
-    "title": "Revisiting Weapons of Math Destruction",
-    "section": "Arguments, Not Answers",
-    "text": "Arguments, Not Answers\nDeconstructing math does not mean rejecting quantitative tools. It means treating models as arguments rather than answers. Arguments can be questioned, revised, and sometimes rejected. Answers demand obedience.\nThis perspective shaped how I teach Econ 10 (Statistical Inference) and Econ 110 (Econometrics). I want students to see estimates not as final answers, but as conditional statements shaped by assumptions, data-generating processes, and choices about what to measure. Analytical tools shape real lives, often far beyond the classroom.\n\nThe question I keep returning to is simple but unsettled: how do we remain accountable to the people affected by our models, especially when they never appear in the data?\nI don’t have a neat answer. But learning to ask the question is, I think, part of our responsibility as researchers."
+    "objectID": "teaching.html#teaching-philosophy",
+    "href": "teaching.html#teaching-philosophy",
+    "title": "Teaching",
+    "section": "Teaching Philosophy",
+    "text": "Teaching Philosophy\nBrief description of your teaching philosophy and approach."
+  },
+  {
+    "objectID": "teaching.html#student-feedback",
+    "href": "teaching.html#student-feedback",
+    "title": "Teaching",
+    "section": "Student Feedback",
+    "text": "Student Feedback\n\n“Quote from student evaluation”\n— Student, Course Name"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Abstract: Brief description of the paper and its findings.\nPaper | Slides | Code\n\n\n\n\nAbstract: Brief description of the paper and its findings.\nPaper | Slides"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\nInnovation in India (with Christian Fons-Rosen)  - Brief description\nLost Science - Brief description"
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\nComing soon"
+  },
+  {
+    "objectID": "blog/innovation-allocation.html",
+    "href": "blog/innovation-allocation.html",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "",
+    "text": "Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.\nThe “Lost Einsteins” concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#the-lost-einsteins",
+    "href": "blog/innovation-allocation.html#the-lost-einsteins",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "",
+    "text": "Innovation is often framed as the product of rare genius. As I read more, I increasingly see it as a problem of allocation — how institutions identify, incentivize, and deploy talent.\nThe “Lost Einsteins” concept, developed by Bell et al. (2019), shows that talent appears broadly distributed, but the opportunity to become an inventor is not. Exposure, income background, and institutional access shape who enters the pipeline. If that is true, then innovation is not scarce because ability is rare, but because opportunity is uneven."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#competing-for-talent",
+    "href": "blog/innovation-allocation.html#competing-for-talent",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "Competing for Talent",
+    "text": "Competing for Talent\nBut uneven opportunity is only part of the story. Even among those with strong ability and access, incentives shape whether they remain in science. During a recent lecture, Prof. Ina Ganguli quoted Pierre Azoulay with a provocative question: if Einstein were born today, where would he work — academia, the patent office, or a hedge fund? The point is not nostalgic. It is economic. Individuals respond to incentives. If sectors outside academia offer higher private returns, clearer career paths, or lower uncertainty, then science must compete for talent rather than assume it will naturally attract the most capable minds.\n\n\n\n\n\nSeen this way, the movement of physicists and mathematicians into quantitative finance or technology is not a moral failure, but an institutional outcome. Markets reward activities with strong private returns. But many forms of scientific research generate large social spillovers that are difficult to capture privately. The result is a familiar economic divergence: private incentives may not align with social value."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#ai-and-a-new-layer",
+    "href": "blog/innovation-allocation.html#ai-and-a-new-layer",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "AI and a New Layer",
+    "text": "AI and a New Layer\nThe emergence of AI adds another layer to this allocation problem. If AI lowers the cost of experimentation, it may expand the set of people able to contribute to innovation. But if access to computational infrastructure remains concentrated, the returns to innovation may become even more uneven."
+  },
+  {
+    "objectID": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
+    "href": "blog/innovation-allocation.html#institutional-design-not-moral-persuasion",
+    "title": "Innovation, Incentives, and the Allocation of Talent",
+    "section": "Institutional Design, Not Moral Persuasion",
+    "text": "Institutional Design, Not Moral Persuasion\nIf talent is broadly distributed but incentives are not, then the production of ideas becomes less a mystery of genius and more a question of institutional design. Understanding how institutions shape the allocation of talent may be as important as understanding innovation itself.\n\nReference\nBell, A., Chetty, R., Jaravel, X., Petkova, N., & Van Reenen, J. (2019). Who becomes an inventor in America? The importance of exposure to innovation. The Quarterly Journal of Economics, 134(2), 647–713."
+  },
+  {
+    "objectID": "blog/welcome.html",
+    "href": "blog/welcome.html",
+    "title": "Welcome to My Blog",
+    "section": "",
+    "text": "Welcome to my academic blog! I’ll be sharing thoughts on research, economics, and my journey through academia.\nStay tuned for more posts!"
   },
   {
     "objectID": "cv.html",

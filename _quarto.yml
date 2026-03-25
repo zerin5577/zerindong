@@ -16,6 +16,8 @@ website:
         text: Teaching
       - href: blog.qmd
         text: Blog
+      - href: reading.qmd
+        text: Outside Research
 
   page-footer:
     background: dark
