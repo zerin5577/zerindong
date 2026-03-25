@@ -2,8 +2,6 @@
 title: "Outside Research"
 ---
 
-A log of books, films, and documentaries.
-
 ## Books
 
 Some books I've recently enjoyed:
@@ -21,16 +19,9 @@ Some books I've recently enjoyed:
 
 Some things I've recently enjoyed:
 
-### Documentaries
-
 | Title |
 |-------|
 | *The Social Dilemma* |
-
-### TV Series
-
-| Title |
-|-------|
 | *Painkiller* |
 | *The Good Doctor* |
 | *The Pitt* |
