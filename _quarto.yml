@@ -19,6 +19,8 @@ website:
       - href: reading.qmd
         text: Outside Research
 
+  google-analytics: "G-S64PJM0YTF"
+
   page-footer:
     background: dark
     center: "© 2026 Zerin Dong"
