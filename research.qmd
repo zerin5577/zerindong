@@ -16,17 +16,11 @@ The effects are present throughout the sample but are stronger in STEM fields, p
 
 ---
 
-### Paper Title 2
-**Abstract:** Brief description of the paper and its findings.
-
-[Paper](papers/paper2.pdf) | [Slides](slides/paper2_slides.pdf)
-
----
 
 ## Work in Progress
 
-- **Innovation in India (with Christian Fons-Rosen) ** - Brief description
-- **Lost Science** - Brief description
+- **Innovation in India (with Christian Fons-Rosen) ** 
+- **Lost Science**
 
 ## Publications
 
