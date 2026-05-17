@@ -14,14 +14,14 @@ This course covers the fundamentals of stocks and bonds, including valuation met
 
 ## Teaching Assistant
 
-### Statistical Inference (2023 Spring, 2025 Spring, 2025 Fall)
-- [Course evaluations](teaching/course1_syllabus.pdf)
+### Statistical Inference (2023 Spring, 2025 Fall)
+- [Course evaluations](teaching/statistical_inference_evals.pdf)
 
 ### Econometrics (2022 Fall, 2024 Fall)
-- [Course evaluations](teaching/course1_syllabus.pdf)
+- [Course evaluations](teaching/econometrics_evals.pdf)
 
 ### Intermediate Microeconomics (2023 Fall, 2024 Spring)
-- [Course evaluations](teaching/course1_syllabus.pdf)
+- [Course evaluations](teaching/micro_evals.pdf)
 
 ---
 
