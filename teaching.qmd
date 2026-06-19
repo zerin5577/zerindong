@@ -7,13 +7,11 @@ title: "Teaching"
 ### Economics of Investments: Stocks and Bonds (Summer 2026)
 This course covers the fundamentals of stocks and bonds, including valuation methods and models. Introduces the analysis of financial statements and understanding the impact of macroeconomic factors on stock prices. Includes modern portfolio theory, teaching students how to construct efficient and diversified portfolios while balancing risk and return.
 
-- [Syllabus](teaching/econ163a_investments_summer2026_syllabus.pdf)
+- [Syllabus](teaching/econ163a_investments_summer2026_syllabus.pdf) | [Classroom observation report](teaching/econ163a_observation.pdf)
 
 > **Classroom Observation** (June 15, 2026, observed by SATAL)
 >
 > "This was a well-structured and engaging online class that effectively combined dynamic lecturing with interactive elements. The instructor fostered participation through polls, chat responses, guided practice, and positive encouragement while making complex financial concepts accessible through real-world examples."
-
-- [Full observation report](teaching/econ163a_observation.pdf)
 
 ---
 
